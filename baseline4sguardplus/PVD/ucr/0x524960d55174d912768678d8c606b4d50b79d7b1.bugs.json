@@ -1,0 +1,9 @@
+[
+    {
+        "code_coverage": 99.5,
+        "execution_time": 12.029698133468628,
+        "tool": "Mythril",
+        "pc": 233,
+        "type": "unhandled exception"
+    }
+]

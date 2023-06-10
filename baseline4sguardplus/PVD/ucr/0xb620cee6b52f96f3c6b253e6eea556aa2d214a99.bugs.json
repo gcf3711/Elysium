@@ -1,0 +1,31 @@
+[
+    {
+        "code_coverage": 77.23,
+        "execution_time": 124.906898021698,
+        "tool": "Mythril",
+        "pc": 804,
+        "type": "unhandled exception"
+    },
+    {
+        "code_coverage": 77.23,
+        "execution_time": 124.906898021698,
+        "tool": "Mythril",
+        "pc": 889,
+        "type": "unhandled exception"
+    },
+    {
+        "code_coverage": 97.5,
+        "execution_time": 33.818893909454346,
+        "tool": "Osiris",
+        "pc": 1145,
+        "type": "overflow",
+        "opcode": "ADD"
+    },
+    {
+        "code_coverage": 93.9,
+        "execution_time": 6.31556510925293,
+        "tool": "Oyente",
+        "pc": 1553,
+        "type": "reentrancy"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "code_coverage": 73.7,
+        "execution_time": 1802.9541199207306,
+        "tool": "Osiris",
+        "pc": 1118,
+        "type": "overflow",
+        "opcode": "MUL"
+    },
+    {
+        "code_coverage": 73.7,
+        "execution_time": 1802.9541199207306,
+        "tool": "Osiris",
+        "pc": 2368,
+        "type": "overflow",
+        "opcode": "ADD"
+    },
+    {
+        "code_coverage": 73.7,
+        "execution_time": 1802.9541199207306,
+        "tool": "Osiris",
+        "pc": 2376,
+        "type": "overflow",
+        "opcode": "ADD"
+    },
+    {
+        "code_coverage": 73.7,
+        "execution_time": 1802.9541199207306,
+        "tool": "Osiris",
+        "pc": 3282,
+        "type": "overflow",
+        "opcode": "ADD"
+    },
+    {
+        "code_coverage": 73.7,
+        "execution_time": 1802.9541199207306,
+        "tool": "Osiris",
+        "pc": 3323,
+        "type": "overflow",
+        "opcode": "ADD"
+    },
+    {
+        "code_coverage": 73.7,
+        "execution_time": 1802.9541199207306,
+        "tool": "Osiris",
+        "pc": 3536,
+        "type": "overflow",
+        "opcode": "MUL"
+    },
+    {
+        "code_coverage": 73.7,
+        "execution_time": 1802.9541199207306,
+        "tool": "Osiris",
+        "pc": 3540,
+        "type": "overflow",
+        "opcode": "ADD"
+    },
+    {
+        "code_coverage": 73.7,
+        "execution_time": 1802.9541199207306,
+        "tool": "Osiris",
+        "pc": 3605,
+        "type": "overflow",
+        "opcode": "ADD"
+    }
+]

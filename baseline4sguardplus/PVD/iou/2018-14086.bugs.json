@@ -1,0 +1,57 @@
+[
+    {
+        "code_coverage": 93.4,
+        "execution_time": 51.91001486778259,
+        "tool": "Osiris",
+        "pc": 1293,
+        "type": "overflow",
+        "opcode": "ADD"
+    },
+    {
+        "code_coverage": 93.4,
+        "execution_time": 51.91001486778259,
+        "tool": "Osiris",
+        "pc": 1301,
+        "type": "overflow",
+        "opcode": "ADD"
+    },
+    {
+        "code_coverage": 93.4,
+        "execution_time": 51.91001486778259,
+        "tool": "Osiris",
+        "pc": 1757,
+        "type": "underflow",
+        "opcode": "SUB"
+    },
+    {
+        "code_coverage": 93.4,
+        "execution_time": 51.91001486778259,
+        "tool": "Osiris",
+        "pc": 1828,
+        "type": "underflow",
+        "opcode": "SUB"
+    },
+    {
+        "code_coverage": 93.4,
+        "execution_time": 51.91001486778259,
+        "tool": "Osiris",
+        "pc": 2001,
+        "type": "overflow",
+        "opcode": "MUL"
+    },
+    {
+        "code_coverage": 93.4,
+        "execution_time": 51.91001486778259,
+        "tool": "Osiris",
+        "pc": 2055,
+        "type": "overflow",
+        "opcode": "ADD"
+    },
+    {
+        "code_coverage": 69.04,
+        "execution_time": 124.07947134971619,
+        "tool": "Mythril",
+        "pc": 2099,
+        "type": "unhandled exception"
+    }
+]

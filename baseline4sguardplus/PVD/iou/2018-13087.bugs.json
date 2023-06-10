@@ -1,0 +1,34 @@
+[
+    {
+        "code_coverage": 97.5,
+        "execution_time": 142.27498698234558,
+        "tool": "Osiris",
+        "pc": 1748,
+        "type": "overflow",
+        "opcode": "ADD"
+    },
+    {
+        "code_coverage": 97.5,
+        "execution_time": 142.27498698234558,
+        "tool": "Osiris",
+        "pc": 1756,
+        "type": "overflow",
+        "opcode": "ADD"
+    },
+    {
+        "code_coverage": 97.5,
+        "execution_time": 142.27498698234558,
+        "tool": "Osiris",
+        "pc": 2025,
+        "type": "underflow",
+        "opcode": "SUB"
+    },
+    {
+        "code_coverage": 97.5,
+        "execution_time": 142.27498698234558,
+        "tool": "Osiris",
+        "pc": 2577,
+        "type": "overflow",
+        "opcode": "MUL"
+    }
+]

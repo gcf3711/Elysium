@@ -1,0 +1,10 @@
+[
+    {
+        "code_coverage": 99.0,
+        "execution_time": 1.1353693008422852,
+        "tool": "Osiris",
+        "pc": 161,
+        "type": "underflow",
+        "opcode": "SUB"
+    }
+]

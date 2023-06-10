@@ -1,0 +1,26 @@
+[
+    {
+        "code_coverage": 81.8,
+        "execution_time": 1802.6677899360657,
+        "tool": "Osiris",
+        "pc": 1181,
+        "type": "overflow",
+        "opcode": "ADD"
+    },
+    {
+        "code_coverage": 81.8,
+        "execution_time": 1802.6677899360657,
+        "tool": "Osiris",
+        "pc": 1197,
+        "type": "overflow",
+        "opcode": "MUL"
+    },
+    {
+        "code_coverage": 81.8,
+        "execution_time": 1802.6677899360657,
+        "tool": "Osiris",
+        "pc": 1283,
+        "type": "overflow",
+        "opcode": "ADD"
+    }
+]

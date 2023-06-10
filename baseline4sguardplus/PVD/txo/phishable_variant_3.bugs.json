@@ -1,0 +1,9 @@
+[
+    {
+        "code_coverage": 73.81,
+        "execution_time": 8.30323839187622,
+        "tool": "Mythril",
+        "pc": 244,
+        "type": "transaction origin"
+    }
+]

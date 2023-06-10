@@ -1,0 +1,23 @@
+{
+    "patches": [
+        {
+            "bug_type": "transaction_origin",
+            "pc": 214,
+            "patch": [
+                {
+                    "delete": "ORIGIN",
+                    "insert": "CALLER",
+                    "insert_mode": "before",
+                    "constructor": false
+                }
+            ]
+        }
+    ],
+    "control_flow_graph_recovery_time": 0.010385513305664062,
+    "control_flow_graph_recovery": "100%",
+    "original_deployment_size": "256 bytes",
+    "patched_deployment_size": "256 bytes",
+    "original_runtime_size": "350 bytes",
+    "patched_runtime_size": "350 bytes",
+    "execution_time": 0.025759458541870117
+}

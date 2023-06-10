@@ -1,0 +1,24 @@
+[
+    {
+        "code_coverage": 98.7,
+        "execution_time": 1.7675836086273193,
+        "tool": "Osiris",
+        "pc": 310,
+        "type": "overflow",
+        "opcode": "ADD"
+    },
+    {
+        "code_coverage": 98.3,
+        "execution_time": 2.612672805786133,
+        "tool": "Oyente",
+        "pc": 352,
+        "type": "reentrancy"
+    },
+    {
+        "code_coverage": 99.58,
+        "execution_time": 24.59172558784485,
+        "tool": "Mythril",
+        "pc": 352,
+        "type": "leaking ether"
+    }
+]

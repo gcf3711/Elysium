@@ -1,0 +1,49 @@
+[
+    {
+        "code_coverage": 97.8,
+        "execution_time": 181.57699704170227,
+        "tool": "Osiris",
+        "pc": 1997,
+        "type": "underflow",
+        "opcode": "SUB"
+    },
+    {
+        "code_coverage": 84.28,
+        "execution_time": 124.37042880058289,
+        "tool": "Mythril",
+        "pc": 2075,
+        "type": "suicidal"
+    },
+    {
+        "code_coverage": 97.8,
+        "execution_time": 181.57699704170227,
+        "tool": "Osiris",
+        "pc": 2148,
+        "type": "overflow",
+        "opcode": "ADD"
+    },
+    {
+        "code_coverage": 97.8,
+        "execution_time": 181.57699704170227,
+        "tool": "Osiris",
+        "pc": 2156,
+        "type": "overflow",
+        "opcode": "ADD"
+    },
+    {
+        "code_coverage": 97.8,
+        "execution_time": 181.57699704170227,
+        "tool": "Osiris",
+        "pc": 2425,
+        "type": "underflow",
+        "opcode": "SUB"
+    },
+    {
+        "code_coverage": 97.8,
+        "execution_time": 181.57699704170227,
+        "tool": "Osiris",
+        "pc": 3062,
+        "type": "overflow",
+        "opcode": "MUL"
+    }
+]

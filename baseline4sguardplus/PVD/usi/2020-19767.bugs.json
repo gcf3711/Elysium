@@ -1,0 +1,33 @@
+[
+    {
+        "code_coverage": 93.65,
+        "execution_time": 125.2923812866211,
+        "tool": "Mythril",
+        "pc": 1511,
+        "type": "suicidal"
+    },
+    {
+        "code_coverage": 99.9,
+        "execution_time": 403.16472482681274,
+        "tool": "Osiris",
+        "pc": 1573,
+        "type": "underflow",
+        "opcode": "SUB"
+    },
+    {
+        "code_coverage": 99.9,
+        "execution_time": 403.16472482681274,
+        "tool": "Osiris",
+        "pc": 1809,
+        "type": "underflow",
+        "opcode": "SUB"
+    },
+    {
+        "code_coverage": 99.9,
+        "execution_time": 403.16472482681274,
+        "tool": "Osiris",
+        "pc": 2554,
+        "type": "overflow",
+        "opcode": "ADD"
+    }
+]

@@ -1,0 +1,35 @@
+{
+    "patches": [
+        {
+            "bug_type": "integer_overflow",
+            "pc": 1871,
+            "patch": [
+                {
+                    "delete": "",
+                    "insert": "DUP2 DUP2 PUSH32_0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff SUB LT ISZERO PUSH_jump_loc_1 JUMPI PUSH1_0x0 DUP1 REVERT JUMPDEST_jump_loc_1",
+                    "insert_mode": "before",
+                    "constructor": false
+                }
+            ]
+        },
+        {
+            "bug_type": "integer_overflow",
+            "pc": 1902,
+            "patch": [
+                {
+                    "delete": "",
+                    "insert": "DUP2 DUP2 PUSH32_0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff SUB LT ISZERO PUSH_jump_loc_1 JUMPI PUSH1_0x0 DUP1 REVERT JUMPDEST_jump_loc_1",
+                    "insert_mode": "before",
+                    "constructor": false
+                }
+            ]
+        }
+    ],
+    "control_flow_graph_recovery_time": 1.6500818729400635,
+    "control_flow_graph_recovery": "100%",
+    "original_deployment_size": "388 bytes",
+    "patched_deployment_size": "388 bytes",
+    "original_runtime_size": "4135 bytes",
+    "patched_runtime_size": "4229 bytes",
+    "execution_time": 2.1482067108154297
+}
